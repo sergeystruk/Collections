@@ -1,0 +1,10 @@
+D:\EPAM\Collections\TestProjectConsole\obj\Debug\TestProjectConsole.csprojResolveAssemblyReference.cache
+D:\EPAM\Collections\TestProjectConsole\obj\Debug\TestProjectConsole.csproj.CoreCompileInputs.cache
+D:\EPAM\Collections\TestProjectConsole\bin\Debug\TestProjectConsole.exe.config
+D:\EPAM\Collections\TestProjectConsole\bin\Debug\TestProjectConsole.exe
+D:\EPAM\Collections\TestProjectConsole\bin\Debug\TestProjectConsole.pdb
+D:\EPAM\Collections\TestProjectConsole\bin\Debug\Collections.dll
+D:\EPAM\Collections\TestProjectConsole\bin\Debug\Collections.pdb
+D:\EPAM\Collections\TestProjectConsole\obj\Debug\TestProjectConsole.csproj.CopyComplete
+D:\EPAM\Collections\TestProjectConsole\obj\Debug\TestProjectConsole.exe
+D:\EPAM\Collections\TestProjectConsole\obj\Debug\TestProjectConsole.pdb

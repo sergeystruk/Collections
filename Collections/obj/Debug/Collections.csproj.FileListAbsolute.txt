@@ -1,0 +1,6 @@
+D:\EPAM\Collections\Collections\bin\Debug\Collections.dll
+D:\EPAM\Collections\Collections\bin\Debug\Collections.pdb
+D:\EPAM\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+D:\EPAM\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\EPAM\Collections\Collections\obj\Debug\Collections.dll
+D:\EPAM\Collections\Collections\obj\Debug\Collections.pdb
